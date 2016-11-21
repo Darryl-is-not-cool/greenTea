@@ -1,0 +1,47 @@
+#header{
+  font-size: 70px;
+  color: violet;
+  text-align: center;
+}
+#sam{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+padding: 5px;
+border-radius: 90%;
+text-align: center;
+float: left;
+}
+#darr{
+width: 220px;
+height: 200px;
+border: 2px solid black;
+padding: 5px;
+border-radius: 90%;
+text-align: center;
+float: right;
+}
+#imani{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+padding: 5px;
+border-radius: 90%;
+text-align: center;
+float: right;
+}
+#val{
+width: 200px;
+height: 200px;
+border: 2px solid black;
+padding: 5px;
+border-radius: 90%;
+text-align: center;
+float: left;
+clear: left;
+}
+img{
+  position: absolute;
+  left: 30%;
+  height: 300px;
+}
